@@ -1,4 +1,5 @@
 <h1>Моя первая игра на Unity.</h1> 
+<img src="game_screenshot.png">
 
 
 <h3>Суть игры:</h3>
