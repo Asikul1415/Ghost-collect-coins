@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\Unity Projects\\First Project\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|e:\\programming\\unity projects\\first project\\my project\\assets\\ghostcharacter_free\\scripts\\ghostscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\ghostcharacter_free\\scripts\\ghostscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|e:\\programming\\unity projects\\first project\\my project\\assets\\scripts\\lavacollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lavacollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|E:\\Programming\\Unity Projects\\First Project\\My project\\assets\\scripts\\rewardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rewardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|e:\\programming\\unity projects\\first project\\my project\\assets\\scripts\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CoinsDeathsTextsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CoinsDeathsTextsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\DataContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DataContainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CoinRotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CoinRotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraFollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GhostScript.cs",
+              "DocumentMoniker": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\GhostCharacter_Free\\Scripts\\GhostScript.cs",
+              "RelativeDocumentMoniker": "Assets\\GhostCharacter_Free\\Scripts\\GhostScript.cs",
+              "ToolTip": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\GhostCharacter_Free\\Scripts\\GhostScript.cs",
+              "RelativeToolTip": "Assets\\GhostCharacter_Free\\Scripts\\GhostScript.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAawMMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:51:44.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIControl.cs",
+              "DocumentMoniker": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\Scripts\\UIControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIControl.cs",
+              "ToolTip": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\Scripts\\UIControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T09:51:12.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LavaCollision.cs",
+              "DocumentMoniker": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\Scripts\\LavaCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LavaCollision.cs",
+              "ToolTip": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\Scripts\\LavaCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LavaCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T16:28:12.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RewardSystem.cs",
+              "DocumentMoniker": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\Scripts\\RewardSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RewardSystem.cs",
+              "ToolTip": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\Scripts\\RewardSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RewardSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:07:49.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoinsDeathsTextsController.cs",
+              "DocumentMoniker": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CoinsDeathsTextsController.cs",
+              "RelativeDocumentMoniker": "Assets\\CoinsDeathsTextsController.cs",
+              "ToolTip": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CoinsDeathsTextsController.cs",
+              "RelativeToolTip": "Assets\\CoinsDeathsTextsController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:19:13.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContainer.cs",
+              "DocumentMoniker": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\DataContainer.cs",
+              "RelativeDocumentMoniker": "Assets\\DataContainer.cs",
+              "ToolTip": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\DataContainer.cs",
+              "RelativeToolTip": "Assets\\DataContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T14:17:29.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CoinRotation.cs",
+              "DocumentMoniker": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CoinRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\CoinRotation.cs",
+              "ToolTip": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CoinRotation.cs",
+              "RelativeToolTip": "Assets\\CoinRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T11:46:56.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow.cs",
+              "ToolTip": "E:\\Programming\\Unity Projects\\First Project\\My project\\Assets\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T15:11:01.177Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
