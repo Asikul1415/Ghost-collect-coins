@@ -1,5 +1,4 @@
 <h1>Моя первая игра на Unity.</h1> 
-![image](https://github.com/user-attachments/assets/87519107-5c6a-4fbc-8c93-0b25c3f5d60a)
 
 
 <h3>Суть игры:</h3>
